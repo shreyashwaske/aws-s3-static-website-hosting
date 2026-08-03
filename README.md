@@ -54,9 +54,7 @@ This project helped me understand the fundamentals of cloud deployment and serve
 
 ## 📸 Project Screenshot
 
-### Home Page
-
-[Home Page](AWS Static website screenshot.png)
+![AWS S3 Static Website](aws-static-website.png)
 
 ---
 
