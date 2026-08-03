@@ -1,60 +1,97 @@
 # AWS S3 Static Website Hosting ☁️
 
-This is my AWS Cloud project where I created and hosted a static website using Amazon S3.
+A static website hosted using **Amazon S3 Static Website Hosting**. This project demonstrates how to deploy a website on AWS without using a traditional web server.
 
-The main goal of this project was to understand how websites can be deployed on the cloud without using any traditional web server.
+## 🌐 Live Demo
 
+GitHub Pages (Preview):  
+https://shreyashwaske.github.io/aws-s3-static-website-hosting/
 
-## About The Project
+> AWS S3 Demo:()
 
-In this project, I created a simple responsive website using HTML, CSS, and JavaScript.
-After creating the website, I uploaded all the files to an Amazon S3 bucket and configured S3 Static Website Hosting to make the website available online.
+---
 
+## 📖 About The Project
 
-## What I Learned
+This project demonstrates how to host a static website using **Amazon S3**.
 
-While building this project, I learned:
-- How Amazon S3 works
-- How to create and configure an S3 bucket
-- How static websites are hosted on AWS
-- How cloud deployment works
-- Basics of serverless architecture
+The website was built using **HTML, CSS, and JavaScript**, uploaded to an Amazon S3 bucket, and configured using **Static Website Hosting**.
 
+This project helped me understand the fundamentals of cloud deployment and serverless web hosting on AWS.
 
-## Technologies Used
+---
 
-- HTML
-- CSS
+## 🚀 Features
+
+- Responsive Design
+- Static Website Hosting
+- Amazon S3 Deployment
+- Clean UI
+- Beginner-Friendly AWS Project
+
+---
+
+## 🛠 Technologies Used
+
+- HTML5
+- CSS3
 - JavaScript
 - Amazon S3
+- GitHub Pages (Project Preview)
 
+---
 
-## Project Flow
+## 📂 Project Flow
 
-1. Created a static website using HTML, CSS, and JavaScript
-2. Created an S3 bucket on AWS
-3. Enabled static website hosting
-4. Uploaded website files to S3
-5. Configured permissions for public access
-6. Hosted the website using AWS S3
+1. Designed the website using HTML, CSS, and JavaScript.
+2. Created an Amazon S3 bucket.
+3. Enabled Static Website Hosting.
+4. Uploaded website files.
+5. Configured bucket permissions.
+6. Accessed the website using the S3 endpoint.
 
-## Future Improvements
+---
 
-I will improve this project by adding:
+## 📸 Project Screenshot
 
-- CloudFront for faster content delivery
-- HTTPS using AWS services
-- Custom domain using Route 53
-- More advanced AWS cloud features
+### Home Page
 
+[Home Page](AWS Static website screenshot.png)
 
-## Project Screenshot
+---
 
-()
+## 📚 What I Learned
 
+- Amazon S3 Basics
+- Static Website Hosting
+- Bucket Policies
+- Object Permissions
+- Public Access Configuration
+- Cloud Deployment
+- Serverless Hosting
 
-## Author
+---
+
+## 🔮 Future Improvements
+
+- AWS CloudFront
+- HTTPS
+- Custom Domain using Route 53
+- CI/CD using GitHub Actions
+- AWS Certificate Manager
+
+---
+
+## 👨‍💻 Author
 
 Shreyash Waske
+
+GitHub: (https://github.com/shreyashwaske)
+
+
+AWS Builder Profile: (https://builder.aws.com/community/@awshreyash)
+
+---
+⭐ If you like this project, consider giving it a star!
 
 GitHub: https://github.com/shreyashwaske
